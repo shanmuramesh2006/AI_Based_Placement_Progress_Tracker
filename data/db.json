@@ -1,0 +1,321 @@
+{
+  "dailyProgress": [
+    {
+      "id": "mock-APTITUDE-2026-06-20",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 65,
+      "logDate": "2026-06-20"
+    },
+    {
+      "id": "mock-SQL-2026-06-20",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 70,
+      "logDate": "2026-06-20"
+    },
+    {
+      "id": "mock-CODING-2026-06-20",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 60,
+      "logDate": "2026-06-20"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-21",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 70,
+      "logDate": "2026-06-21"
+    },
+    {
+      "id": "mock-SQL-2026-06-21",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 75,
+      "logDate": "2026-06-21"
+    },
+    {
+      "id": "mock-CODING-2026-06-21",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 65,
+      "logDate": "2026-06-21"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-22",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 67,
+      "logDate": "2026-06-22"
+    },
+    {
+      "id": "mock-SQL-2026-06-22",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 72,
+      "logDate": "2026-06-22"
+    },
+    {
+      "id": "mock-CODING-2026-06-22",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 62,
+      "logDate": "2026-06-22"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-23",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 61,
+      "logDate": "2026-06-23"
+    },
+    {
+      "id": "mock-SQL-2026-06-23",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 66,
+      "logDate": "2026-06-23"
+    },
+    {
+      "id": "mock-CODING-2026-06-23",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 56,
+      "logDate": "2026-06-23"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-24",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 59,
+      "logDate": "2026-06-24"
+    },
+    {
+      "id": "mock-SQL-2026-06-24",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 64,
+      "logDate": "2026-06-24"
+    },
+    {
+      "id": "mock-CODING-2026-06-24",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 54,
+      "logDate": "2026-06-24"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-25",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 65,
+      "logDate": "2026-06-25"
+    },
+    {
+      "id": "mock-SQL-2026-06-25",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 70,
+      "logDate": "2026-06-25"
+    },
+    {
+      "id": "mock-CODING-2026-06-25",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 60,
+      "logDate": "2026-06-25"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-26",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 74,
+      "logDate": "2026-06-26"
+    },
+    {
+      "id": "mock-SQL-2026-06-26",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 79,
+      "logDate": "2026-06-26"
+    },
+    {
+      "id": "mock-CODING-2026-06-26",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 69,
+      "logDate": "2026-06-26"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-27",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 81,
+      "logDate": "2026-06-27"
+    },
+    {
+      "id": "mock-SQL-2026-06-27",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 86,
+      "logDate": "2026-06-27"
+    },
+    {
+      "id": "mock-CODING-2026-06-27",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 76,
+      "logDate": "2026-06-27"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-28",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 80,
+      "logDate": "2026-06-28"
+    },
+    {
+      "id": "mock-SQL-2026-06-28",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 85,
+      "logDate": "2026-06-28"
+    },
+    {
+      "id": "mock-CODING-2026-06-28",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 75,
+      "logDate": "2026-06-28"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-29",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 74,
+      "logDate": "2026-06-29"
+    },
+    {
+      "id": "mock-SQL-2026-06-29",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 79,
+      "logDate": "2026-06-29"
+    },
+    {
+      "id": "mock-CODING-2026-06-29",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 69,
+      "logDate": "2026-06-29"
+    },
+    {
+      "id": "mock-APTITUDE-2026-06-30",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 70,
+      "logDate": "2026-06-30"
+    },
+    {
+      "id": "mock-SQL-2026-06-30",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 75,
+      "logDate": "2026-06-30"
+    },
+    {
+      "id": "mock-CODING-2026-06-30",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 65,
+      "logDate": "2026-06-30"
+    },
+    {
+      "id": "mock-APTITUDE-2026-07-01",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 74,
+      "logDate": "2026-07-01"
+    },
+    {
+      "id": "mock-SQL-2026-07-01",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 79,
+      "logDate": "2026-07-01"
+    },
+    {
+      "id": "mock-CODING-2026-07-01",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 69,
+      "logDate": "2026-07-01"
+    },
+    {
+      "id": "mock-APTITUDE-2026-07-02",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 83,
+      "logDate": "2026-07-02"
+    },
+    {
+      "id": "mock-SQL-2026-07-02",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 88,
+      "logDate": "2026-07-02"
+    },
+    {
+      "id": "mock-CODING-2026-07-02",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 78,
+      "logDate": "2026-07-02"
+    },
+    {
+      "id": "mock-APTITUDE-2026-07-03",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 91,
+      "logDate": "2026-07-03"
+    },
+    {
+      "id": "mock-SQL-2026-07-03",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 96,
+      "logDate": "2026-07-03"
+    },
+    {
+      "id": "mock-CODING-2026-07-03",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 86,
+      "logDate": "2026-07-03"
+    },
+    {
+      "id": "mock-APTITUDE-2026-07-04",
+      "studentId": 1,
+      "category": "APTITUDE",
+      "score": 92,
+      "logDate": "2026-07-04"
+    },
+    {
+      "id": "mock-SQL-2026-07-04",
+      "studentId": 1,
+      "category": "SQL",
+      "score": 97,
+      "logDate": "2026-07-04"
+    },
+    {
+      "id": "mock-CODING-2026-07-04",
+      "studentId": 1,
+      "category": "CODING",
+      "score": 87,
+      "logDate": "2026-07-04"
+    }
+  ],
+  "generatedTests": [],
+  "testAttempts": []
+}

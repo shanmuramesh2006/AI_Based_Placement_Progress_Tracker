@@ -1,0 +1,6 @@
+{
+  "name": "AI based Placement progress tracker",
+  "description": "An AI-powered placement preparation tracker with auto-generated practice tests, instant grading, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
