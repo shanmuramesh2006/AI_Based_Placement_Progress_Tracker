@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 build/
 dist/
@@ -6,3 +7,21 @@ coverage/
 *.log
 .env*
 !.env.example
+=======
+# Environment variables
+.env
+backend/.env
+
+# Maven build output
+target/
+backend/target/
+
+# JAR files
+*.jar
+
+# VS Code
+.vscode/
+
+# Node modules
+node_modules/
+>>>>>>> 1acf9ff283d696d2b22c06840bfc5a91982bc05a
