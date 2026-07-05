@@ -1,0 +1,16 @@
+# Environment variables
+.env
+backend/.env
+
+# Maven build output
+target/
+backend/target/
+
+# JAR files
+*.jar
+
+# VS Code
+.vscode/
+
+# Node modules
+node_modules/
